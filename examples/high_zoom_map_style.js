@@ -48,6 +48,7 @@ var mapStyle = {
       "steps",
       "pedestrian",
       "living_street",
+      "bridleway",
     ];
   },
 
